@@ -67,6 +67,7 @@
 │       ├── card.tsx
 │       ├── faq.tsx
 │       ├── input.tsx
+│       ├── loading.tsx
 │       ├── pricing.tsx
 │       ├── review.tsx
 │       ├── sheet.tsx
@@ -87,6 +88,7 @@
 ├── postcss.config.mjs
 ├── public/
 │   ├── Liam.jpg
+│   ├── LoadingPage.png
 │   ├── ava.jpg
 │   ├── james.jpg
 │   ├── logo.svg
